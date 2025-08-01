@@ -1,6 +1,6 @@
 # HỆ THỐNG GIÁM SÁT & CÂN BẰNG TẢI SDN WI-FI RESORT
 
-**Người thực hiện:** Lê Gia Hoàng Thiện\
+**Người thực hiện:** Lê Gia Hoàng Thiện, Phạm Thị Thanh Vinh, Lê Hoàng Vũ, Lê Thị Thùy Trang\
 **Môn học:** Thiết kế mạng / SDN\
 **Dự án:** Mô phỏng hệ thống quản lý, giám sát và cân bằng tải các Access Point trong mạng Wi-Fi Resort sử dụng Mininet-WiFi và Ryu SDN Controller.
 
